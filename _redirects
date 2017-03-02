@@ -1,0 +1,8 @@
+#https://www.netlify.com/docs/redirects/
+#/  /zh-hans   302  Country=cn,hk,tw
+#/  /ru   302  Country=ru
+#/  /ko   302  Country=kp,kr
+/  /zh-hans   302  Language=zh
+/  /ru   302  Language=ru
+/  /ko   302  Language=ko
+/ /index.html 200
